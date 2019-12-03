@@ -109,7 +109,7 @@
   #header .row nav ul.header_right {
     position: absolute !important;
     right: 8px !important;
-    top: -95px !important; }
+    top: -60px !important; }
 
   #footer {
     height: 300px !important; } }
@@ -239,6 +239,9 @@
     }
 
   ul.share {
+    display: none !important; }
+/*
+  ul.share {
     margin-left: 10px !important; }
 
   ul.share li i:hover {
@@ -247,13 +250,11 @@
     -ms-filter: "alpha(opacity=70)"; }
 
   ul.share li i.-facebook {
-    /*display: none !important;*/ }
+    color: #4267B2; }
+*/
+}
 
-  ul.share li i.-twitter {
-    /*display: none !important;*/ }
 
-  ul.share li i.-facebook {
-    color: #4267B2; } }
 @media screen and (max-width: 51em) {
   .s-cover .content-section .row .columns {
     margin-left: 0 !important; }
@@ -349,6 +350,20 @@
 #aside .list-menu li a:hover {
   text-decoration: underline !important; }
 
+#aside .career .list-menu li:nth-child(2n) {
+  display: none !important; }
+
+#aside .introduction li.campus,
+#aside .teacher li.campus,
+#aside .studyabroad li.campus,
+#aside .career li.campus,
+#aside .exam li.campus,
+#aside .portal4fs li.campus,
+#aside .general li.campus {
+  display: none !important;
+}
+
+
 /*----- CONTENTS(第2階層のみ) -----*/
 /*----- LIST-LINKS -----*/
 #main .content-section .row .columns ul.list-links li a:hover {
@@ -407,3 +422,14 @@
   margin-left: 0.5em;
 }
 
+
+/*ハンバーガーメニュー スクロールー*/
+
+@media screen and (max-width: 40em) { /*640px以下*/
+
+  .m-hamburger_content{
+    overflow-y: scroll;
+    height:100%;
+    -webkit-overflow-scrolling: touch;
+  }
+}
