@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_support_index
 title: Student Support
 permalink: /support/
 category: support
@@ -29,10 +29,7 @@ We help international students find accommodation as convenient and close to our
 <ul>
   <li><a href="http://www.aoyama.ac.jp/en/campuslife/student_life.html" target="_blank" class="pop">AGU I-House Sagamihara</a></li>
 </ul>
-<!--
-## Housing Information
-* [AGU I-House Sagamihara](http://www.aoyama.ac.jp/en/campuslife/student_life.html)
--->
+
 
 <h2 id="contact">Contact</h2>
 <ul>
@@ -41,16 +38,6 @@ We help international students find accommodation as convenient and close to our
   <li>Address: 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan</li>
   <li>E-mail: info@gsc.aoyama.ac.jp</li>
   <li>Fax: +81-42-759-6035</li>
-  <li>GSC Website-&gt; <a href="http://www.gsc.aoyama.ac.jp/international/">www.gsc.aoyama.ac.jp/international/</a></li>
+  <li>GSC Website-&gt; <a href="http://international.gsc.aoyama.ac.jp/">international.gsc.aoyama.ac.jp/</a></li>
   <li>AGU Website -&gt; <a href="http://www.aoyama.ac.jp/en/" target="_blank" class="pop">www.aoyama.ac.jp/en/</a></li>
 </ul>
-<!--
-## Contact
-* Academic Affairs Division
-* Sagamihara Campus Administration Department, Aoyama Gakuin University
-* Address: 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan
-* E-mail: info@gsc.aoyama.ac.jp
-* Fax: +81-42-759-6035
-* GSC Website-> [www.gsc.aoyama.ac.jp/international/](http://www.gsc.aoyama.ac.jp/international/)
-* AGU Website -> [www.aoyama.ac.jp/en/](http://www.aoyama.ac.jp/en/)
--->

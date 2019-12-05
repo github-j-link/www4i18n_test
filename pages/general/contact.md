@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_general
 title: Contact
 permalink: /general/contact/
 category: general
